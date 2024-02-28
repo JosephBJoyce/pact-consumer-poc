@@ -36,8 +36,8 @@ pnpm start
   - powershell
 
   ```powershell
-  [System.Environment]::SetEnvironmentVariable('PACT_BROKER_BASE_URL','https://domain.pactflow.io')
-  [System.Environment]::SetEnvironmentVariable('PACT_BROKER_TOKEN','*****')
+  [System.Environment]::SetEnvironmentVariable('PACT_BROKER_BASE_URL','https://galwayse.pactflow.io/')
+  [System.Environment]::SetEnvironmentVariable('PACT_BROKER_TOKEN','9rHjtK3ssQ-kXAC2qAZW9A')
   ```
 
 - Publish contract to PactFlow.io
